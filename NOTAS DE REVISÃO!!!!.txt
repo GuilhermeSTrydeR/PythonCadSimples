@@ -1,0 +1,13 @@
+para acesso ao perfil administrador(temporario), utilize as seguintes credenciais:
+login: "admin"
+senha: "admin"
+
+################################################################################################
+
+* os cadastros de alunos, professores, administradores e turmas ja estão sendo feitos no banco sqlite(3).
+
+* ja é possivel visualizar os dados dos bancos (alunos, professores, administradores e turmas)
+
+*ja é possivel logar com os perfil's criados em banco SQL
+
+* ja é possivel cadastrar e visualizar avaliações/provas
